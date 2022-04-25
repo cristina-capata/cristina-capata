@@ -2,11 +2,11 @@
 
 👀 I have always had this attraction for colors and aesthetic and UI/UX design and Web development are giving me the chance to mix these with technology.✨ <br>
 <p>🌱 I’m currently learning: <br><ul>
-✨JavaScript <br> </h1>
-✨React <br>
-✨Python <br>
-✨Django <br>
-✨MongoDB <br></ul>
+<li>✨JavaScript </li>
+<li>✨React </li>
+<li>✨Python </li>
+<li>✨Django </li>
+<li>✨MongoDB </li></ul>
 and hopefully I will get the hang of it pretty soon. Soo if you stumble across my projects, I will appreciate your feedback! </p>
 📫 Reach me at cristina.capata9@gmail.com ✨
 
