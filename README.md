@@ -1,13 +1,13 @@
 👋 Hi, I’m @cristina-capata. Welcome to my git repository! <br>
 
 👀 I have always had this attraction for colors and aesthetic and UI/UX design and Web development are giving me the chance to mix these with technology.✨ <br>
-🌱 I’m currently learning: <br>
-<h1> ✨JavaScript <br> </h1>
+<p>🌱 I’m currently learning: <br><ul>
+✨JavaScript <br> </h1>
 ✨React <br>
 ✨Python <br>
 ✨Django <br>
-✨MongoDB <br>
-and hopefully I will get the hang of it pretty soon. Soo if you stumble across my projects, I will appreciate your feedback! <br>
+✨MongoDB <br></ul>
+and hopefully I will get the hang of it pretty soon. Soo if you stumble across my projects, I will appreciate your feedback! </p>
 📫 Reach me at cristina.capata9@gmail.com ✨
 
 <!---
