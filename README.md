@@ -2,7 +2,7 @@
 
 👀 I have always had this attraction for colors and aesthetic and UI/UX design and Web development are giving me the chance to mix these with technology.✨ <br>
 🌱 I’m currently learning: <br>
-✨JavaScript <br>
+<h1> ✨JavaScript <br> </h1>
 ✨React <br>
 ✨Python <br>
 ✨Django <br>
