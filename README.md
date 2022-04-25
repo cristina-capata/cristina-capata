@@ -7,7 +7,9 @@
     <li>HTML</li>
     <li>CSS </li>
     <li>Flutter </li>
-    <li>Figma </li></ul><p>
+    <li>Figma </li>
+    <li>Networking & Cybersecurity</li>
+</ul><p>
 
 
 <p>🌱 I’m currently learning: <br><ul> 
