@@ -6,6 +6,7 @@
   <br><ul>
     <li>HTML</li>
     <li>CSS </li>
+    <li>Java Script </li>
     <li>Flutter </li>
     <li>Figma </li>
     <li>Networking & Cybersecurity</li>
@@ -17,7 +18,7 @@
 <li>Python </li>
 <li>Django </li>
 <li>MongoDB </li></ul>
-and hopefully I will get the hang of it pretty soon. Soo if you stumble across my projects, I will appreciate your feedback! </p>
+and hopefully I will get the hang of it pretty soon. So if you stumble across my projects, I will appreciate your feedback! </p>
 📫 Reach me at cristina.capata9@gmail.com ✨
 
 <!---
